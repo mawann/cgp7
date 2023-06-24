@@ -1,1 +1,1 @@
-# cgp7
+# cgp7: Calon Guru Penggerak Angkatan 7
